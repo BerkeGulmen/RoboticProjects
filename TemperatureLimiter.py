@@ -1,4 +1,4 @@
-#https://githubusercontent.com/BerkeGulmen/RoboticProjects/main/TemperatureLimiter.py
+#https://github.com/BerkeGulmen/RoboticProjects/blob/main/TemperatureLimiter.py
 from microbit import *
 
 a = 1
